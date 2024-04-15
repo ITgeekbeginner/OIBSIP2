@@ -5,3 +5,5 @@ Please note this project runs in the console window and does not include a GUI, 
 The project allows the user to input a search topic and then the AI relays the search results found on Wikipedia.
 The project can be modified and improved to perform various functions.
 The works of this project are inspired by basic knowledge of python and teachings of python websites and expects.
+# CITATION
+GfG (2023) Introduction to tkinter, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/introduction-to-tkinter/ (Accessed: 10 April 2024). 
